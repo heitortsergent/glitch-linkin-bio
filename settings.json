@@ -1,0 +1,57 @@
+{
+  "metaTitle": "Heitor Link in Bio!",
+  "metaDescription": "Heitor's link in bio. :)",
+  "name": "Heitor's Links",
+  "theme": "heitor",
+  "avatarImage": "https://0.gravatar.com/avatar/10eef81625284e8299967a73960e860b?size=800",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/heitortsergent/",
+      "text": "LinkedIn",
+      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Glitch blue generative art"
+    },
+    {
+      "url": "https://github.com/heitortsergent",
+      "text": "GitHub",
+      "img": ""
+    },
+    {
+      "url": "https://mastodon.social/@heitortsergent",
+      "text": "Mastodon",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena":"",
+    "bandcamp": "",
+    "cohost":"",
+    "dev": "",    
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "keybase":"",
+    "kofi": "",
+    "letterboxd":"",
+    "linkedin": "",
+    "mastodon": "",
+    "medium": "",
+    "patreon": "",
+    "pinboard":"",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "",
+    "email": ""
+  }
+}
